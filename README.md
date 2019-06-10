@@ -3,7 +3,7 @@ Pytorch implementation for Visual Question Answering for ECE285
 
 ## Dataset Downloading
 
-We used the infrastructure provided by GitHub user tbmoon's PyTorch implementation. [repo](https://github.com/tbmoon/basic_vqa). Here are the necessary commands:
+We used the infrastructure provided by GitHub user tbmoon's PyTorch implementation. [[repo]](https://github.com/tbmoon/basic_vqa). Here are the necessary commands:
 
 ```bash
 $ cd utilities

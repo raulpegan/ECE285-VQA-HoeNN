@@ -5,10 +5,10 @@ Pytorch implementation for Visual Question Answering for ECE285
 
 The demo utilizes the `demo.ipynb` file. The user must download the following files
 
-[Weights](https://drive.google.com/open?id=1D82mDfuVhqLyNusSmZDzzfSUTTgf6u7d)
+[Weights](https://drive.google.com/open?id=1D82mDfuVhqLyNusSmZDzzfSUTTgf6u7d) - 
 Place the weights in a file under `/models/demo.ckpt`
 
-[Serialized data](https://drive.google.com/open?id=1JYtenpvkr5zUURVMyUoi0UV46ynA7mJo)
+[Serialized data](https://drive.google.com/open?id=1JYtenpvkr5zUURVMyUoi0UV46ynA7mJo) - 
 Place the file under `pickle/datapoint`
 
 ## Code Organization
